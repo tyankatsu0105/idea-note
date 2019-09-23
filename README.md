@@ -14,3 +14,8 @@
 - eslint-plugin-gridsomeの改良
 - markuplintのリファクタ、ヘルプ
 
+# 検証系
+- conventional-changelog
+- semantic-release
+- Bot (probot)
+- translation bot (React真似る)
