@@ -9,6 +9,7 @@
 - github repositoryのメリット・デメリット
 - CHANGELOGとnpmに関して
 - monoreposに関して
+- stylelintのprocessorsに関して
 
 # OSS
 - stylelint-config-ecssの完成
