@@ -5,6 +5,7 @@
 
 # 話し系
 - スナップショットテストにときめかない
+- 断捨離yarn
 - github repositoryのメリット・デメリット
 - CHANGELOGとnpmに関して
 - monoreposに関して
