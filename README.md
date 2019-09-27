@@ -8,8 +8,12 @@
 - 断捨離yarn
 - github repositoryのメリット・デメリット
 - CHANGELOGとnpmに関して
-- monoreposに関して
+- monorepoに関して
 - stylelintのprocessorsに関して
+- vscodeとtypescript-eslint
+- typescript-eslintコードリーディング
+- TSとmonorepo
+- TSコードリーディング
 
 # OSS
 - stylelint-config-ecssの完成
